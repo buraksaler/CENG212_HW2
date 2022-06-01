@@ -67,7 +67,7 @@ student('Mehmet Ali Okay').
 takes('Burak Saler', 'CENG212').
 takes('Burak Saler', 'CENG312').
 takes('Burak Saler', 'CENG318').
-takes('Student 2', 'CENG312').
-takes('Student 3', 'CENG318').
-takes('Student 4', 'CENG322').
-takes('Student 5', 'CENG316').
+takes('Gulce Sarac', 'CENG312').
+takes('Derya Karakaya', 'CENG318').
+takes('Kutay Ozbay', 'CENG322').
+takes('Mehmet Ali Okay', 'CENG316').
